@@ -1,0 +1,144 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+  font-size:20px;
+  background-size:cover;
+  background-position:center;
+background-color:#d9ffec;
+  background-attachment:fixed;
+  
+}
+.header {
+ background-color:#4a9840;
+  background-size:cover;
+  background-position:center;
+background-image:url(imgf/i.png);
+  background-attachment:fixed;
+  border-radius:3px;
+  padding:5px;
+  
+}
+.container{
+  text-decoration:none;
+  color:#4a9840;
+  background-color:#d9ffec;
+  font-size:40px;
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  padding:10px;
+  text-align:center;
+  font-weight:bold;
+  letter-spacing:3px;
+  font-size:60px;
+}
+
+h1{
+  background-color:red;
+}
+.menus ul{
+  text-align:center;
+   list-style:none;
+  
+   background-color:#4a9840;
+  padding:10px;
+  border-radius:5px;
+}
+
+.menus li{
+  display:block;
+ 
+  display:inline;
+ 
+  
+  
+}
+
+.menus li a{
+  text-decoration:none;
+  padding:5px;
+  font-weight:bold;
+  text-align:center;
+  background-color:#d9ffec;
+  margin:4px;
+  color:#4a9840;
+  border-radius:5px;
+}
+.pro{
+  text-align:center;
+  font-weight:bold;
+  font-size:40px;
+  margin-bottom:60px;
+}
+span{
+  color:#4a9840;
+}
+.webima img{
+  margin:4px;
+  width:360px;
+  padding-bottom:10px;
+  
+}
+
+figcaption{
+  text-align:center;
+}
+.about h3{
+  text-align:center;
+  font-weight:bold;
+}
+.about p{
+  text-align:justify;
+  margin:10px;
+}
+
+
+.contact{
+  
+  background-size:cover;
+  background-position:center;
+  background-image:url(imgf/5.png);
+  margin:5px;
+}
+.contact h3{
+  text-align:center;
+  font-weight:bold;
+}
+.contact p{
+  text-align:center;
+  color:#4a9840;
+}
+.footer{
+  background-color:black;
+    background-size:cover;
+  background-position:center;
+}
+.footer p{
+  padding:10px;
+  margin:5px;
+  text-align:center;
+  color:#1f1f1f;
+  font-weight:bold; 
+}
+.footer a {
+  border-radius:5px;
+    background-color:#fff5e6;
+  text-decoration:none;}
+  
+
+.new img{
+  width:300px;
+  margin:10px;
+}
+
+
+.blog img{
+  width:360px;
+}
+.blog p{
+  text-align:justify;
+  padding:10px;
+  color:green;
+}
